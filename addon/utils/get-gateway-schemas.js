@@ -7,6 +7,12 @@ export default function getGatewaySchemas() {
             ideal_payment: false,
             fpx_payment: false,
         },
+        mpesa_stk: { 
+            merchant_id: '',
+            pass_key: '',
+            consumer_key: '',
+            consumer_secret: '',
+        },
         braintree: {
             merchant_id: '',
             public_key: '',
