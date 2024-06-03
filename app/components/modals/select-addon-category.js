@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/modals/select-addon-category';
+export { default } from '@lipagas/storefront-engine/components/modals/select-addon-category';

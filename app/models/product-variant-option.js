@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/models/product-variant-option';
+export { default } from '@lipagas/storefront-engine/models/product-variant-option';

@@ -2,7 +2,7 @@ import Component from '@glimmer/component';
 
 import { action } from '@ember/object';
 import { inject as service } from '@ember/service';
-import contextComponentCallback from '@fleetbase/ember-core/utils/context-component-callback';
+import contextComponentCallback from '@lipagas/ember-core/utils/context-component-callback';
 import { tracked } from '@glimmer/tracking';
 
 export default class OrderPanelDetailsComponent extends Component {

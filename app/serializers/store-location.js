@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/serializers/store-location';
+export { default } from '@lipagas/storefront-engine/serializers/store-location';

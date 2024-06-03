@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/templates/customers/index/edit';
+export { default } from '@lipagas/storefront-engine/templates/customers/index/edit';

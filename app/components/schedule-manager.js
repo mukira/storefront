@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/schedule-manager';
+export { default } from '@lipagas/storefront-engine/components/schedule-manager';

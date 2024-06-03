@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/helpers/avatar-url';
+export { default } from '@lipagas/storefront-engine/helpers/avatar-url';

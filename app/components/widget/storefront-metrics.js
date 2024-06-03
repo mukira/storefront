@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/widget/storefront-metrics';
+export { default } from '@lipagas/storefront-engine/components/widget/storefront-metrics';

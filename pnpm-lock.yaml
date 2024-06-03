@@ -11,10 +11,10 @@ importers:
       '@babel/core':
         specifier: ^7.23.2
         version: 7.23.2
-      '@fleetbase/ember-core':
+      '@lipagas/ember-core':
         specifier: ^0.2.9
         version: 0.2.9(@ember/test-helpers@3.2.0(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0))(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0)
-      '@fleetbase/fleetops-data':
+      '@lipagas/fleetops-data':
         specifier: ^0.1.15
         version: 0.1.15
       '@fortawesome/ember-fontawesome':
@@ -60,7 +60,7 @@ importers:
       '@embroider/test-setup':
         specifier: ^3.0.2
         version: 3.0.2
-      '@fleetbase/intl-lint':
+      '@lipagas/intl-lint':
         specifier: ^0.0.1
         version: 0.0.1
       '@glimmer/component':
@@ -1365,21 +1365,21 @@ packages:
     resolution: {integrity: sha512-mjZVbpaeMZludF2fsWLD0Z9gCref1Tk4i9+wddjRvpUNqqcndPkBD09N/Mapey0b3jaXbLm2kICwFv2E64QinA==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
 
-  '@fleetbase/ember-accounting@0.0.1':
+  '@lipagas/ember-accounting@0.0.1':
     resolution: {integrity: sha512-61WGQ/VtmkEloBfdNEd83C9E57axiBXbBPdXAbaS3dsCBpKmqwPo1CkrYUN7vVa3oUP9ZRouVVVffbE0YDnAng==}
     engines: {node: '>= 18'}
     peerDependencies:
       ember-source: '>= 4.0.0'
 
-  '@fleetbase/ember-core@0.2.9':
+  '@lipagas/ember-core@0.2.9':
     resolution: {integrity: sha512-Z4XU5QydqP4dqzyncYW1vKxsUn9VjPiJ/R7l/L+jHuJTMr2AbbkZV5LtoQ0nP+Ib2euhlLMgLuxwlVRWUv/C+g==}
     engines: {node: '>= 18'}
 
-  '@fleetbase/fleetops-data@0.1.15':
+  '@lipagas/fleetops-data@0.1.15':
     resolution: {integrity: sha512-vASD94APnJqtikQJ8RIqmARmGv9V16pxBJ74azzT/0hNQS9n1VUDiluIJEyuNGnb/BceYIIODdQ7+qi2/cktGw==}
     engines: {node: '>= 18'}
 
-  '@fleetbase/intl-lint@0.0.1':
+  '@lipagas/intl-lint@0.0.1':
     resolution: {integrity: sha512-LkjxJr15hSiGmqh3JwixcpjmkhXNieNAEgQUVv1Duo50jTr/D5WXEyOaeI8wuVnVFhT+FS/DMqm403DgSKlsEg==}
     hasBin: true
 
@@ -9441,7 +9441,7 @@ snapshots:
 
   '@eslint/js@8.52.0': {}
 
-  '@fleetbase/ember-accounting@0.0.1(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))':
+  '@lipagas/ember-accounting@0.0.1(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))':
     dependencies:
       '@babel/core': 7.23.2
       ember-cli-babel: 8.2.0(@babel/core@7.23.2)
@@ -9450,7 +9450,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@fleetbase/ember-core@0.2.9(@ember/test-helpers@3.2.0(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0))(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0)':
+  '@lipagas/ember-core@0.2.9(@ember/test-helpers@3.2.0(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0))(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))(webpack@5.89.0)':
     dependencies:
       '@babel/core': 7.23.2
       compress-json: 3.0.0
@@ -9480,7 +9480,7 @@ snapshots:
       - utf-8-validate
       - webpack
 
-  '@fleetbase/fleetops-data@0.1.15':
+  '@lipagas/fleetops-data@0.1.15':
     dependencies:
       '@babel/core': 7.23.2
       date-fns: 2.30.0
@@ -9489,7 +9489,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@fleetbase/intl-lint@0.0.1':
+  '@lipagas/intl-lint@0.0.1':
     dependencies:
       js-yaml: 4.1.0
       yargs: 17.7.2
@@ -9875,7 +9875,7 @@ snapshots:
       '@ember/string': 3.1.1
       '@embroider/addon': 0.30.0
       '@embroider/macros': 1.16.1
-      '@fleetbase/ember-accounting': 0.0.1(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))
+      '@lipagas/ember-accounting': 0.0.1(ember-source@5.4.0(@babel/core@7.23.2)(@glimmer/component@1.1.2(@babel/core@7.23.2))(rsvp@4.8.5)(webpack@5.89.0))
       '@floating-ui/dom': 1.6.5
       '@fortawesome/ember-fontawesome': 1.0.3(rollup@4.12.0)(webpack@5.89.0)
       '@fortawesome/fontawesome-svg-core': 6.4.0

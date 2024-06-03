@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/customer-panel/orders';
+export { default } from '@lipagas/storefront-engine/components/customer-panel/orders';

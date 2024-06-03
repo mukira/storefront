@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/adapters/network';
+export { default } from '@lipagas/storefront-engine/adapters/network';

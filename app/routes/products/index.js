@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/routes/products/index';
+export { default } from '@lipagas/storefront-engine/routes/products/index';

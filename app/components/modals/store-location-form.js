@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/modals/store-location-form';
+export { default } from '@lipagas/storefront-engine/components/modals/store-location-form';

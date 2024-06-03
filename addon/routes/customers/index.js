@@ -1,7 +1,7 @@
 import Route from '@ember/routing/route';
 import { inject as service } from '@ember/service';
 import { action, set } from '@ember/object';
-import isNestedRouteTransition from '@fleetbase/ember-core/utils/is-nested-route-transition';
+import isNestedRouteTransition from '@lipagas/ember-core/utils/is-nested-route-transition';
 
 export default class CustomersIndexRoute extends Route {
     @service store;

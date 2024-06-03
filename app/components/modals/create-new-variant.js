@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/modals/create-new-variant';
+export { default } from '@lipagas/storefront-engine/components/modals/create-new-variant';

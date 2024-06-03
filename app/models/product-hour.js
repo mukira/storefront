@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/models/product-hour';
+export { default } from '@lipagas/storefront-engine/models/product-hour';

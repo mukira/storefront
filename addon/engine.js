@@ -2,7 +2,7 @@ import Engine from '@ember/engine';
 import loadInitializers from 'ember-load-initializers';
 import Resolver from 'ember-resolver';
 import config from './config/environment';
-import services from '@fleetbase/ember-core/exports/services';
+import services from '@lipagas/ember-core/exports/services';
 import StorefrontKeyMetricsWidget from './components/widget/storefront-key-metrics';
 import StorefrontOrderSummaryComponent from './components/storefront-order-summary';
 
@@ -34,7 +34,7 @@ export default class StorefrontEngine extends Engine {
         };
 
         // register component to views
-        universe.registerRenderableComponent('@fleetbase/fleetops-engine', 'fleet-ops:template:operations:orders:view', StorefrontOrderSummaryComponent);
+        universe.registerRenderableComponent('@lipagas/fleetops-engine', 'fleet-ops:template:operations:orders:view', StorefrontOrderSummaryComponent);
 
         // register widgets
         universe.registerDefaultDashboardWidgets([KeyMetricsWidgetDefinition]);

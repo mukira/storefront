@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/modals/create-network';
+export { default } from '@lipagas/storefront-engine/components/modals/create-network';

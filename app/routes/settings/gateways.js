@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/routes/settings/gateways';
+export { default } from '@lipagas/storefront-engine/routes/settings/gateways';

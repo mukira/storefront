@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/modals/add-store-hours';
+export { default } from '@lipagas/storefront-engine/components/modals/add-store-hours';

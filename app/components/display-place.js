@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/storefront-engine/components/display-place';
+export { default } from '@lipagas/storefront-engine/components/display-place';
