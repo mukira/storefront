@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/storefront-engine",
+    "name": "@lipagas/storefront-engine",
     "version": "0.3.8",
     "description": "Headless Commerce & Marketplace Extension for Fleetbase",
     "fleetbase": {
@@ -16,7 +16,7 @@
         "ember-engine",
         "ember-addon"
     ],
-    "repository": "https://github.com/fleetbase/storefront",
+    "repository": "https://github.com/mukira/storefront",
     "license": "MIT",
     "author": "Fleetbase Pte Ltd <hello@fleetbase.io>",
     "directories": {
@@ -44,7 +44,7 @@
     },
     "dependencies": {
         "@fleetbase/ember-core": "^0.2.9",
-        "@fleetbase/ember-ui": "^0.2.14",
+        "@lipagas/ember-ui": "^0.2.20",
         "@fleetbase/fleetops-data": "^0.1.15",
         "@babel/core": "^7.23.2",
         "@fortawesome/ember-fontawesome": "^0.4.1",
